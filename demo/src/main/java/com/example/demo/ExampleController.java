@@ -23,6 +23,7 @@ public class ExampleController {
 		set.add("atmakuri");
 		set.add("vamsi");
 		set.add("krishna");
+		set.add("git");
 		return set;
 	}
 	
